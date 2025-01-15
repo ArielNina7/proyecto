@@ -1,0 +1,243 @@
+<menu>
+    <item id="inicio">
+        <es>Inicio</es>
+        <en>Home</en>
+        <submenu>
+            <item id="Descripcion">
+                <es>Descripción del formulario</es>
+                <en>Form Description</en>
+                <link>index.html</link>
+            </item>
+            <item id="Objetivo_adopcion">
+                <es>Objetivo de la adopción responsable</es>
+                <en>Objective of Responsible Adoption</en>
+                <link>#Objetivo</link>
+            </item>
+            <item id="Requisitos_adoptar">
+                <es>Requisitos para adoptar una mascota</es>
+                <en>Requirements to Adopt a Pet</en>
+                <link>#Requisitos</link>
+            </item>
+            <item id="Preguntas">
+                <es>Preguntas frecuentes</es>
+                <en>Frequently Asked Questions</en>
+                <link>#Preguntas</link>
+            </item>
+        </submenu>
+    </item>
+
+    <item id="Formulario_a">
+        <es>Formulario de Adopción</es>
+        <en>Adoption Form</en>
+        <submenu>
+            <item id="Información_p">
+                <es>Información personal del adoptante</es>
+                <en>Personal Information of the Adopter</en>
+                <link>formulario.html</link>
+            </item>
+            <item id="Selección_m">
+                <es>Selección de tipo de mascota</es>
+                <en>Pet Type Selection</en>
+                <link>#/Selección</link>
+            </item>
+            <item id="Preferencias">
+                <es>Preferencias sobre el tamaño y raza</es>
+                <en>Preferences on Size and Breedr</en>
+                <link>#/Preferencias</link>
+            </item>
+            <item id="Confirmación_a">
+                <es>Confirmación de adopción</es>
+                <en>Adoption Confirmation</en>
+                <link>#/Confirmación</link>
+            </item>
+        </submenu>
+    </item>
+
+    <item id="Proceso_a">
+        <es>Proceso de Adopción</es>
+        <en>Adoption Process</en>
+        <submenu>
+            <item id="Detalles_p">
+                <es>Detalles del proceso de adopción</es>
+                <en>Details of the Adoption Process</en>
+                <link>#/Details</link>
+            </item>
+            <item id="Recomendaciones_c">
+                <es>Recomendaciones para cuidar la mascota </es>
+                <en>Recommendations for Pet Care</en>
+                <link>#/Recommendations</link>
+            </item>
+            <item id="Contacto_r">
+                <es>Contacto con refugios o centros de adopción </es>
+                <en>Contact with Shelters or Adoption Centers</en>
+                <link>#/Contact</link>
+            </item>
+            <item id="Información_s">
+                <es>Información sobre cuidados de mascotas </es>
+                <en>Information on Pet Care</en>
+                <link>#/Information</link>
+            </item>
+        </submenu>
+    </item>
+
+    <item id="Recomendaciones">
+        <es>Recomendaciones </es>
+        <en>Recommendations</en>
+        <submenu>
+            <item id="Consejos_i">
+                <es>Consejos para la integración de la mascota en el hogar</es>
+                <en>Tips for Integrating Your Pet into the Home</en>
+                <link>#/Consejos</link>
+            </item>
+            <item id="Accesorios">
+                <es>Accesorios y productos recomendados </es>
+                <en>Recommended Accessories and Products</en>
+                <link>#/Recommended</link>
+            </item>
+
+            <item id="Veterinarios">
+                <es>Veterinarios y servicios relacionados </es>
+                <en>Veterinarians and Related Services</en>
+                <link>#/Veterinarios</link>
+            </item>
+            <item id="Actividades">
+                <es>Actividades para disfrutar con tu mascota</es>
+                <en>Activities to Enjoy with Your Pet</en>
+                <link>#/Actividades</link>
+            </item>
+        </submenu>
+    </item>
+
+    <item id="Comunidad">
+        <es>Comunidad</es>
+        <en>Comunidad </en>
+         <submenu>
+            <item id="Foros">
+                <es>Foros de adopción de mascotas</es>
+                <en>Pet Adoption Forums</en>
+                <link>#/Foros</link>
+            </item>
+            <item id="Historias">
+                <es>Historias de éxito en la adopción</es>
+                <en>Success Stories in Adoption</en>
+                <link>#/Historias</link>
+            </item>
+
+            <item id="Encuentros">
+                <es>Encuentros y eventos de adopción</es>
+                <en>Adoption Meetups and Events</en>
+                <link>#/Encuentros</link>
+            </item>
+            <item id="Redes">
+                <es>Redes de apoyo para adoptantes</es>
+                <en>Support Networks for Adopters</en>
+                <link>#/Redes</link>
+            </item>
+        </submenu>
+    </item>
+
+    <item id="Extras ">
+        <es>Extras</es>
+        <en>Extras </en>
+       <submenu>
+            <item id="cuidados">
+                <es>Artículos sobre cuidados de mascotas</es>
+                <en>Articles on Pet Care</en>
+                <link>#/cuidados</link>
+            </item>
+            <item id="Videos">
+                <es>Videos de entrenamiento y juegos</es>
+                <en>Training and Play Videos</en>
+                <link>#/Videos</link>
+            </item>
+
+            <item id="Recetas">
+                <es>Recetas de comida casera para mascotas</es>
+                <en>Homemade Pet Food Recipes</en>
+                <link>#/Recetas</link>
+            </item>
+            <item id="refugios">
+                <es>Información sobre refugios locales</es>
+                <en>o	Information on Local Shelters</en>
+                <link>#/refugios</link>
+            </item>
+        </submenu>
+    </item>
+
+     <item id="FAQ ">
+        <es>FAQ</es>
+        <en>FAQ </en>
+        <submenu>
+            <item id="modificar ">
+                <es>¿Cómo modificar mi solicitud?</es>
+                <en>How to Modify My Application?</en>
+                <link>#/modificar</link>
+            </item>
+            <item id="adoptar_M ">
+                <es>¿Puedo adoptar más de una mascota? </es>
+                <en>Can I Adopt More than One Pet? </en>
+                <link>#/adoptar_M</link>
+            </item>
+            <item id="Extras ">
+                <es>Cómo saber si soy apto para adoptar </es>
+                <en>How to Know if I’m Eligible to Adopt </en>
+                <link>#/Comunidad</link>
+            </item>
+            <item id="Contactar_S ">
+                <es>Contactar soporte </es>
+                <en>Contact Support </en>
+                <link>#/Comunidad</link>
+            </item>
+        </submenu>
+    </item>
+    
+    <item id="Contacto">
+        <es>Contacto</es>
+        <en>Contact </en>
+        <submenu>
+            <item id="Formulario_C ">
+                <es>Formulario de contacto </es>
+                <en>Contact Form </en>
+                <link>#/Formulario_C</link>
+            </item>
+            <item id="sociales ">
+                <es>Redes sociales </es>
+                <en>Social Media </en>
+                <link>#/sociales</link>
+            </item>
+            <item id="Feedback ">
+                <es>Feedback y sugerencias</es>
+                <en>Feedback and Suggestions </en>
+                <link>#/Feedback</link>
+            </item>
+            
+        </submenu>
+
+    </item>
+        <item2 id="educontenido">
+        <es>Adoptar una mascota es una decisión que implica un compromiso de por vida para darle a un animal un hogar, los cuidados y el cariño que necesita. Además de ayudar a la mascota, adoptar también contribuye a reducir el número de animales en los refugios y a apoyar el trabajo de las organizaciones que los cuidan</es>
+        <en>Adopting a pet is a decision that involves a lifelong commitment to giving an animal a home, the care and affection it needs. In addition to helping the pet, adopting also helps reduce the number of animals in shelters and supports the work of the organizations that care for them.</en>
+        </item2>
+        
+        <item3 id="titulo">
+        <es>Adopte una mascota</es>
+        <en>adopt a pet</en>
+        </item3>
+        <item4 id="footer">
+        <es>correo: arielnina8549@gmail.com</es>
+        <en>mail: arielnina8549@gmail.com</en>
+        </item4>
+        <item5 id="imag1">
+        <es>a2.jpg</es>
+        <en>a22.jpg</en>
+        </item5>
+         <item6 id="imag2">
+        <es>dog12.jpg</es>
+        <en>a13.jpg</en>
+        </item6>
+         <item7 id="imag3">
+        <es>dog11.jpg</es>
+        <en>dog10.jpg</en>
+        </item7>
+        
+</menu>
